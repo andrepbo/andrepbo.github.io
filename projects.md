@@ -32,5 +32,3 @@ Developed a system to optimize the feedstock procurement process, reducing opera
 Vet4All is a 24/7 online veterinary platform. Led a full-stack development team, ensuring robust architecture and scalable solutions, significantly improving customer engagement.
 
 **Key technologies:** React, Node.js, Cloud Applications, Data Integration
-
-[Visit Vet4All](https://www.vet4all.com.br){:target="_blank"}
