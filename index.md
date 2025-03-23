@@ -15,7 +15,9 @@ Passionate about leading teams and crafting clean, maintainable code, I hold a P
 
 ### **Senior Software Engineer**  
 **Avenue Code** *(2023–2025)*  
-Designed and implemented scalable backend services and API integrations for enterprise applications. Worked closely with cross-functional teams to ensure high-performance solutions and provided mentorship to junior developers.
+- Designed and implemented scalable web applications using Node.js, React, and TypeScript.
+- Developed robust APIs and integrated complex systems to deliver user-friendly interfaces.
+- Mentored consultants to enhance technical skills and achieve professional growth.
 
 **Skills:**  
 <div class="skills">
@@ -26,7 +28,8 @@ Designed and implemented scalable backend services and API integrations for ente
 
 ### **Senior Software Engineer | Tech Lead**  
 **Pitang** *(2020–2023)*  
-Led the architecture and development of scalable backend systems, enhancing performance and reliability.
+- Led the development of complex applications using diverse technologies to deliver scalable and efficient solutions.
+- Designed and implemented systems integrating modern interfaces with robust infrastructure for seamless performance.
 
 **Skills:**  
 <div class="skills">
@@ -37,7 +40,7 @@ Led the architecture and development of scalable backend systems, enhancing perf
 
 ### **Senior Software Engineer**  
 **Accenture** *(2019–2020)*  
-Developed microservices and provided technical mentorship to agile teams.
+- Led the development of microservices and monolithic systems, ensuring seamless user interactions and robust functionality.
 
 **Skills:**  
 <div class="skills">
@@ -47,9 +50,9 @@ Developed microservices and provided technical mentorship to agile teams.
 ---
 
 ### **Senior Software Engineer**  
-**Instituto de Tecnologia de Pernambuco (ITEP)** *(2017–2018)*  
-Built secure and scalable software solutions, focusing on database integration and performance optimization.
-
+**Pernambuco Institute of Technology** *(2017–2018)*  
+- Led the development of innovative software solutions focusing on scalable and secure applications.
+- Spearheaded projects integrating databases to enhance data accessibility and performance.
 **Skills:**  
 <div class="skills">
   <span>JavaScript</span> <span>Node.js</span> <span>SQL Server</span> <span>Data Management</span> <span>System Integration</span>
@@ -58,8 +61,10 @@ Built secure and scalable software solutions, focusing on database integration a
 ---
 
 ### **Tech Lead**  
-**Grupo Ser Educacional** *(2014–2016)*  
-Managed educational software projects, leading technical teams to deliver reliable, cloud-integrated applications.
+**Ser Educacional Group** *(2014–2016)*  
+- Led the technical team in developing educational software solutions for thousands of users, focusing on testable and maintainable code.
+- Built responsive applications, integrating with cloud services.
+- Successfully managed multiple projects from conception to deployment.
 
 **Skills:**  
 <div class="skills">
