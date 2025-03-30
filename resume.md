@@ -183,11 +183,11 @@ Passionate about leading teams and crafting clean, maintainable code, I hold a P
 
 ## Skills Summary
 
-- Node.js, TypeScript, JavaScript, React, NestJS, REST APIs, GraphQL
-- PostgreSQL, MySQL, SQL Server, MongoDB, Redis
+- Node.js, TypeScript, JavaScript, React, NestJS, REST APIs, GraphQL, Serverless Architecture
+- PostgreSQL, MySQL, SQL Server, MongoDB, Redis, SQL, NoSQL
 - Docker, Kubernetes, CI/CD, Azure Functions, AWS, GCP
-- Microservices, SOA, Agile/Scrum, System Architecture, TDD
-- Git, GitHub, GitLab, VS Code
+- Microservices, SOA, SaaS Applications, Agile/Scrum, System Architecture, TDD
+- Kafka, Git, GitHub, GitLab, VS Code
 
 ---
 
