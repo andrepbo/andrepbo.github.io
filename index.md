@@ -13,62 +13,155 @@ Passionate about leading teams and crafting clean, maintainable code, I hold a P
 
 ## Professional Experience
 
-### **Senior Software Engineer**  
-**Avenue Code** *(2023–2025)*  
-- Designed and implemented scalable web applications using Node.js, React, and TypeScript.
-- Developed robust APIs and integrated complex systems to deliver user-friendly interfaces.
-- Mentored consultants to enhance technical skills and achieve professional growth.
+### **Senior Software Engineer**
 
-**Skills:**  
+**Avenue Code** _(2023–2025)_
+
+- Designed and implemented scalable web applications using Node.js, React, TypeScript, and
+  NestJS.
+- Developed and optimized REST APIs, focusing on performance, security, and scalability.
+- Led technical projects, providing mentorship and ensuring adherence to best practices.
+- Worked with Azure Functions to implement serverless architecture, reducing infrastructure
+  overhead.
+- Contributed to the design and implementation of SaaS applications, ensuring high availability and
+  performance.
+
+**Skills:**
+
 <div class="skills">
-  <span>Node.js</span> <span>NestJS</span> <span>TypeScript</span> <span>React.js</span> <span>REST APIs</span> <span>Cloud Computing</span> <span>Agile Development</span>
+  <span>Node.js</span>
+  <span>React</span>
+  <span>TypeScript</span>
+  <span>NestJS</span>
+  <span>REST</span>
+  <span>GraphQL</span>
+  <span>Serverless Architecture</span>
+  <span>Azure Functions</span>
+  <span>Docker</span>
+  <span>AWS</span>
+  <span>Git</span>
+  <span>PostgreSQL</span>
+  <span>MongoDB</span>
 </div>
 
 ---
 
-### **Senior Software Engineer | Tech Lead**  
-**Pitang** *(2020–2023)*  
-- Led the development of complex applications using diverse technologies to deliver scalable and efficient solutions.
-- Designed and implemented systems integrating modern interfaces with robust infrastructure for seamless performance.
+### **Senior Software Engineer | Tech Lead**
 
-**Skills:**  
+**Pitang** _(2020–2023)_
+
+- Led the development of microservices-based applications using Node.js, TypeScript, and NestJS.
+- Utilized Docker, Kubernetes, and AWS to optimize cloud deployments and application
+  performance.
+- Implemented CI/CD pipelines, automating testing and deployment processes.
+- Focused on building scalable and secure solutions for SaaS applications in the financial sector.
+- Mentored junior developers and guided the adoption of best practices in agile development.
+
+**Skills:**
+
 <div class="skills">
-  <span>Node.js</span> <span>Microservices</span> <span>RabbitMQ</span> <span>PostgreSQL</span> <span>Redis</span> <span>Docker</span> <span>CI/CD Pipelines</span>
+  <span>Node.js</span>
+  <span>TypeScript</span>
+  <span>NestJS</span>
+  <span>Microservices</span>
+  <span>REST</span>
+  <span>Docker</span>
+  <span>Kubernetes</span>
+  <span>AWS</span>
+  <span>CI/CD</span>
+  <span>SQL, NoSQL</span>
+  <span>Git</span>
+  <span>MongoDB</span>
+  <span>PostgreSQL</span>
 </div>
 
 ---
 
-### **Senior Software Engineer**  
-**Accenture** *(2019–2020)*  
-- Led the development of microservices and monolithic systems, ensuring seamless user interactions and robust functionality.
+### **Senior Software Engineer**
 
-**Skills:**  
+**Accenture** _(2019–2020)_
+
+- Developed scalable microservices-based applications, focusing on system reliability and
+  performance.
+- Deployed solutions across AWS, Azure, and Google Cloud, ensuring high availability and fault
+  tolerance.
+- Utilized Docker and Kubernetes for containerization and orchestration of applications.
+- Integrated asynchronous communication with Kafka to handle high-volume event-driven processes.
+- Implemented performance monitoring, optimizing system performance.
+- Worked with NestJS for building efficient and scalable backend services.
+
+**Skills:**
+
 <div class="skills">
-  <span>Node.js</span> <span>Express.js</span> <span>REST APIs</span> <span>MongoDB</span> <span>Azure Functions</span> <span>Software Architecture</span>
+  <span>Microservices</span>
+  <span>AWS</span>
+  <span>Azure</span>
+  <span>GCP</span>
+  <span>CI/CD</span>
+  <span>Docker</span>
+  <span>Kubernetes</span>
+  <span>Kafka</span>
+  <span>REST</span>
+  <span>Git</span>
+  <span>NestJS</span>
+  <span>MySQL</span>
 </div>
 
 ---
 
-### **Senior Software Engineer**  
-**Pernambuco Institute of Technology** *(2017–2018)*  
-- Led the development of innovative software solutions focusing on scalable and secure applications.
-- Spearheaded projects integrating databases to enhance data accessibility and performance.
-**Skills:**  
+### **Senior Software Engineer**
+
+**Pernambuco Institute of Technology** _(2017–2018)_
+
+- Designed and implemented scalable applications using Node.js, React, GraphQL, and NestJS.
+- Spearheaded the adoption of CI/CD pipelines, significantly improving deployment speed and
+  reliability.
+- Worked on system integration with SQL and NoSQL databases, enhancing data consistency and
+  performance.
+- Mentored junior developers, promoting best practices in coding and agile methodologies.
+- Collaborated with cross-functional teams to meet both technical and user-facing requirements.
+
+**Skills:**
+
 <div class="skills">
-  <span>JavaScript</span> <span>Node.js</span> <span>SQL Server</span> <span>Data Management</span> <span>System Integration</span>
+  <span>Node.js</span> 
+  <span>TypeScript</span> 
+  <span>NestJS</span> 
+  <span>React</span> 
+  <span>GraphQL</span> 
+  <span>MySQL</span> 
+  <span>CI/CD</span> 
+  <span>SQL</span>
+  <span>NoSQL</span>
+  <span>Docker</span> 
+  <span>Git</span>
 </div>
 
 ---
 
-### **Tech Lead**  
-**Ser Educacional Group** *(2014–2016)*  
-- Led the technical team in developing educational software solutions for thousands of users, focusing on testable and maintainable code.
-- Built responsive applications, integrating with cloud services.
-- Successfully managed multiple projects from conception to deployment.
+### **Tech Lead**
 
-**Skills:**  
+**Ser Educacional Group** _(2014–2016)_
+
+- Led the development and deployment of educational software solutions using Node.js and React.
+- Designed scalable applications using AWS and Azure, ensuring seamless integration with cloud
+  services.
+- Implemented best practices for version control and continuous integration.
+- Ensured applications were responsive and met performance requirements for thousands
+
+**Skills:**
+
 <div class="skills">
-  <span>Full-Stack Development</span> <span>React.js</span> <span>Node.js</span> <span>MySQL</span> <span>Agile Methodologies</span> <span>Leadership</span>
+  <span>Node.js</span>
+  <span>React</span>
+  <span>AWS</span>
+  <span>Azure</span>
+  <span>Git</span>
+  <span>MySQL</span>
+  <span>CI/CD</span>
+  <span>REST</span>
+  <span>SQL</span>
+  <span>NoSQL</span>
 </div>
 
 ---
@@ -85,16 +178,16 @@ Passionate about leading teams and crafting clean, maintainable code, I hold a P
 
 Explore some of my recent work:
 
-- **Digital Product Integration** *(Internal project at Avenue Code)*
-- **Intelligent Feedstock Flow** *(Internal project at Avenue Code)*
-- [**Vet4All**](https://www.vet4all.com.br/){:target="_blank"} *(24/7 Online Veterinary Platform)*
+- **Digital Product Integration** _(Internal project at Avenue Code)_
+- **Intelligent Feedstock Flow** _(Internal project at Avenue Code)_
+- [**Vet4All**](https://www.vet4all.com.br/){:target="\_blank"} _(24/7 Online Veterinary Platform)_
 
-[View all projects on GitHub](https://github.com/andrepbo){:target="_blank"}
+[View all projects on GitHub](https://github.com/andrepbo){:target="\_blank"}
 
 ---
 
 ## Connect with me
 
-- [LinkedIn](https://www.linkedin.com/in/andrepbo){:target="_blank"}
-- [GitHub](https://github.com/andrepbo){:target="_blank"}
-- Email: [andre.pbo@gmail.com](mailto:andre.pbo@gmail.com){:target="_blank"}
+- [LinkedIn](https://www.linkedin.com/in/andrepbo){:target="\_blank"}
+- [GitHub](https://github.com/andrepbo){:target="\_blank"}
+- Email: [andre.pbo@gmail.com](mailto:andre.pbo@gmail.com){:target="\_blank"}
