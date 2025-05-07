@@ -119,8 +119,6 @@ Passionate about leading teams and crafting clean, maintainable code, I hold a P
 
 **Skills:**
 
-**Skills:**
-
 <div class="skills">
   <span>JavaScript</span>
   <span>TypeScript</span>
