@@ -24,6 +24,7 @@ Passionate about leading teams and crafting clean, maintainable code, I hold a P
 **Skills:**
 
 <div class="skills">
+  <span>TypeScript</span>
   <span>Node.js</span>
   <span>API REST</span>
   <span>NestJS</span>
@@ -37,31 +38,25 @@ Passionate about leading teams and crafting clean, maintainable code, I hold a P
 
 **Avenue Code** _(2023–2025)_
 
-- Designed and implemented scalable web applications using Node.js, React, TypeScript, and
-  NestJS.
-- Developed and optimized REST APIs, focusing on performance, security, and scalability.
-- Led technical projects, providing mentorship and ensuring adherence to best practices.
-- Worked with Azure Functions to implement serverless architecture, reducing infrastructure
-  overhead.
-- Contributed to the design and implementation of SaaS applications, ensuring high availability and
-  performance.
+- Designed and implemented scalable web applications using Node.js, React, and TypeScript.
+- Developed robust APIs and integrated complex systems to deliver user-friendly interfaces.
+- Mentored consultants to enhance technical skills and achieve professional growth.
 
 **Skills:**
 
 <div class="skills">
-  <span>Node.js</span>
-  <span>React</span>
+  <span>JavaScript</span>
   <span>TypeScript</span>
+  <span>Node.js</span>
+  <span>API REST</span>
   <span>NestJS</span>
-  <span>REST</span>
-  <span>GraphQL</span>
-  <span>Serverless Architecture</span>
-  <span>Azure Functions</span>
-  <span>Docker</span>
-  <span>AWS</span>
-  <span>Git</span>
-  <span>PostgreSQL</span>
-  <span>MongoDB</span>
+  <span>Software Design</span>
+  <span>Software Development</span>
+  <span>React</span>
+  <span>Team Leadership</span>
+  <span>Version Control Tools</span>
+  <span>Software Design</span>
+  <span>Agile Methodologies</span>
 </div>
 
 ---
