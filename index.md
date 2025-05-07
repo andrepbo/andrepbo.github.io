@@ -24,6 +24,7 @@ Passionate about leading teams and crafting clean, maintainable code, I hold a P
 **Skills:**
 
 <div class="skills">
+  <span>JavaScript</span>
   <span>TypeScript</span>
   <span>Node.js</span>
   <span>API REST</span>
@@ -50,13 +51,35 @@ Passionate about leading teams and crafting clean, maintainable code, I hold a P
   <span>Node.js</span>
   <span>API REST</span>
   <span>NestJS</span>
+  <span>React</span>
   <span>Software Design</span>
   <span>Software Development</span>
-  <span>React</span>
   <span>Team Leadership</span>
   <span>Version Control Tools</span>
-  <span>Software Design</span>
   <span>Agile Methodologies</span>
+</div>
+
+---
+
+### **Software Engineer | Tech Consultant**
+
+**Self-employed** _(2023)_
+
+- Provided freelance consulting services focused on designing and optimizing scalable web applications using Node.js and TypeScript.
+- Delivered custom backend solutions and API integrations for small and medium-sized businesses.
+- Collaborated with client teams to modernize legacy systems and implement software development best practices.
+
+**Skills:**
+
+<div class="skills">
+  <span>JavaScript</span>
+  <span>TypeScript</span>
+  <span>Node.js</span>
+  <span>API REST</span>
+  <span>NestJS</span>
+  <span>Version Control Tools</span>
+  <span>Software Design</span>
+  <span>Software Development</span>
 </div>
 
 ---
