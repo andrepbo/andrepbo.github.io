@@ -13,6 +13,26 @@ Passionate about leading teams and crafting clean, maintainable code, I hold a P
 
 ## Professional Experience
 
+### **Software Engineer | Independent Consultant**
+
+**Self-employed** _(2025-Present)_
+
+- Providing backend consulting services focused on scalable architectures, clean code practices, and system performance optimization using Node.js, TypeScript, and NestJS.
+- Assisting clients with cloud-based deployments, database modeling, and API integrations for real-world business applications.
+- Continuously improving software delivery through automation, testing strategies, and developer mentoring.
+
+**Skills:**
+
+<div class="skills">
+  <span>Node.js</span>
+  <span>API REST</span>
+  <span>NestJS</span>
+  <span>Software Design</span>
+  <span>Software Development</span>
+</div>
+
+---
+
 ### **Senior Software Engineer**
 
 **Avenue Code** _(2023–2025)_
