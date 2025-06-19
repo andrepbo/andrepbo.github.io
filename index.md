@@ -5,9 +5,11 @@ title: "André Oliveira"
 
 ## About Me
 
-I’m a Software Engineer and Tech Lead with over 12 years of experience delivering scalable backend solutions. My technical expertise includes Node.js, NestJS, REST APIs, Microservices, cloud platforms (AWS, Azure, GCP), and database technologies.
+Software engineer with proven track record in leading technical projects and developing robust software solutions, with a primary focus on backend technologies. Expertise includes Node.js, REST APIs, cloud platforms, Microsoft Azure, AWS, microservices, and both relational and non-relational databases, among other skills.
 
-Passionate about leading teams and crafting clean, maintainable code, I hold a PhD in Computer Science and have international experience working in Brazil, Portugal, and the UK.
+Skilled in utilizing modern technologies across various development frameworks and proficient in managing the system development lifecycle from conception to deployment. Adept at creating client-focused solutions using continuous delivery and agile methodologies.
+
+Holds a bachelor’s, master’s, and PhD in Computer Science, obtained in Brazil and Portugal (dual nationality). Fluent in English, acquired while living in England, with additional certifications that demonstrate in-depth knowledge of the technologies used daily.
 
 ---
 
