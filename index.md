@@ -203,6 +203,25 @@ Holds a bachelor’s, master’s, and PhD in Computer Science, obtained in Brazi
 
 ---
 
+## Skills Summary
+
+- Node.js, TypeScript, JavaScript, React, NestJS, REST APIs, GraphQL, Serverless Architecture
+- PostgreSQL, MySQL, SQL Server, MongoDB, Redis, SQL, NoSQL
+- Docker, Kubernetes, CI/CD, Azure Functions, AWS, GCP
+- Microservices, SOA, SaaS Applications, Agile/Scrum, System Architecture, TDD
+- Kafka, Git, GitHub, GitLab, VS Code
+
+---
+
+## Certifications
+
+- Google Cloud Digital Leader _(2025)_
+- AI - Assisted Certified Professional _(2024)_
+- CS50's Introduction to Programming with Python _(2023)_
+- Scrum Foundation Professional Certificate (SFPC) _(2019)_
+
+---
+
 ## Featured Projects
 
 Explore some of my recent work:

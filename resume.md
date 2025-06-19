@@ -12,81 +12,32 @@ permalink: /resume/
 
 ## About Me
 
-I’m a Software Engineer and Tech Lead with over 12 years of experience delivering scalable backend solutions. My technical expertise includes Node.js, NestJS, REST APIs, Microservices, cloud platforms (AWS, Azure, GCP), and database technologies.
+Software engineer with proven track record in leading technical projects and developing robust software solutions, with a primary focus on backend technologies. Expertise includes Node.js, REST APIs, cloud platforms, Microsoft Azure, AWS, microservices, and both relational and non-relational databases, among other skills.
 
-Passionate about leading teams and crafting clean, maintainable code, I hold a PhD in Computer Science and have international experience working in Brazil, Portugal, and the UK.
+Skilled in utilizing modern technologies across various development frameworks and proficient in managing the system development lifecycle from conception to deployment. Adept at creating client-focused solutions using continuous delivery and agile methodologies.
+
+Holds a bachelor’s, master’s, and PhD in Computer Science, obtained in Brazil and Portugal (dual nationality). Fluent in English, acquired while living in England, with additional certifications that demonstrate in-depth knowledge of the technologies used daily.
 
 ---
 
 ## Professional Experience
 
-### **Software Engineer | Independent Consultant**
-
-**Self-employed** _(2025-Present)_
-
-- Providing backend consulting services focused on scalable architectures, clean code practices, and system performance optimization using Node.js, TypeScript, and NestJS.
-- Assisting clients with cloud-based deployments, database modeling, and API integrations for real-world business applications.
-- Continuously improving software delivery through automation, testing strategies, and developer mentoring.
-
-**Skills:**
-
-<div class="skills">
-  <span>JavaScript</span>
-  <span>TypeScript</span>
-  <span>Node.js</span>
-  <span>API REST</span>
-  <span>NestJS</span>
-  <span>Software Design</span>
-  <span>Software Development</span>
-</div>
-
----
-
 ### **Senior Software Engineer**
 
 **Avenue Code** _(2023–2025)_
 
-- Designed and implemented scalable web applications using Node.js, React, and TypeScript.
-- Developed robust APIs and integrated complex systems to deliver user-friendly interfaces.
-- Mentored consultants to enhance technical skills and achieve professional growth.
+- Designed and implemented scalable web applications to address performance, maintainability, and growing user demands.
+- Built robust APIs and integrated complex systems to deliver seamless, user-friendly experiences using modern architecture and development practices.
+- Mentored consultants, strengthening leadership skills while enhancing team expertise and fostering continuous technical growth.
 
 **Skills:**
 
 <div class="skills">
-  <span>JavaScript</span>
-  <span>TypeScript</span>
   <span>Node.js</span>
-  <span>API REST</span>
-  <span>NestJS</span>
-  <span>React</span>
-  <span>Software Design</span>
-  <span>Software Development</span>
-  <span>Team Leadership</span>
-  <span>Version Control Tools</span>
-  <span>Agile Methodologies</span>
-</div>
-
----
-
-### **Software Engineer | Tech Consultant**
-
-**Self-employed** _(2023)_
-
-- Provided freelance consulting services focused on designing and optimizing scalable web applications using Node.js and TypeScript.
-- Delivered custom backend solutions and API integrations for small and medium-sized businesses.
-- Collaborated with client teams to modernize legacy systems and implement software development best practices.
-
-**Skills:**
-
-<div class="skills">
-  <span>JavaScript</span>
   <span>TypeScript</span>
-  <span>Node.js</span>
-  <span>API REST</span>
   <span>NestJS</span>
-  <span>Version Control Tools</span>
-  <span>Software Design</span>
-  <span>Software Development</span>
+  <span>Cloud Applications</span>
+  <span>Agile Methodology</span>
 </div>
 
 ---
@@ -102,16 +53,11 @@ Passionate about leading teams and crafting clean, maintainable code, I hold a P
 **Skills:**
 
 <div class="skills">
-  <span>JavaScript</span>
-  <span>TypeScript</span>
-  <span>Node.js</span>
-  <span>API REST</span>
-  <span>NestJS</span>
-  <span>Version Control Tools</span>
-  <span>Software Design</span>
-  <span>Software Development</span>
   <span>Team Leadership</span>
-  <span>Agile Methodologies</span>
+  <span>Node.js</span>
+  <span>NestJS</span>
+  <span>Cloud Applications</span>
+  <span>Agile Methodology</span>
 </div>
 
 ---
@@ -127,27 +73,12 @@ Passionate about leading teams and crafting clean, maintainable code, I hold a P
 **Skills:**
 
 <div class="skills">
-  <span>JavaScript</span>
-  <span>TypeScript</span>
   <span>Node.js</span>
+  <span>TypeScript</span>
   <span>API REST</span>
-  <span>NestJS</span>
-  <span>Version Control Tools</span>
-  <span>Software Design</span>
-  <span>Software Development</span>
-  <span>Team Leadership</span>
-  <span>Agile Methodologies</span>
+  <span>Cloud Applications</span>
+  <span>Agile Methodology</span>
 </div>
-
----
-
-### **Career transition**
-
-**Career Break** _(2018)_
-
-- Dedicated time to reassessing career goals and exploring opportunities aligned with long-term professional growth.
-- Engaged in self-study and research to stay updated with modern backend technologies and software architecture patterns.
-- Prepared for the next professional challenge with a clear focus on delivering scalable and maintainable systems.
 
 ---
 
@@ -162,58 +93,111 @@ Passionate about leading teams and crafting clean, maintainable code, I hold a P
 **Skills:**
 
 <div class="skills">
+  <span>Node</span> 
   <span>JavaScript</span> 
   <span>TypeScript</span>
-  <span>Node.js</span> 
   <span>API REST</span>
-  <span>NestJS</span> 
-  <span>React</span>
-  <span>Team Leadership</span>
+  <span>Cloud Applications</span>
+  <span>Agile Methodology</span>
 </div>
 
 ---
 
-### **Software Engineer | Freelance Projects**
-
-**Freelance** _(2016-2017)_
-
-- Worked on independent software development projects for educational and public sector clients.
-- Designed RESTful APIs and backend services, improving data processing and system maintainability.
-- Delivered custom modules and features tailored to each client’s business needs.
-
-**Skills:**
-
-<div class="skills">
-  <span>JavaScript</span> 
-  <span>Node.js</span> 
-  <span>API REST</span>
-</div>
-
----
-
-### **Tech Lead**
+### **Senior Software Engineer | Tech Lead**
 
 **Ser Educacional Group** _(2014–2016)_
 
-- Led the development and deployment of educational software solutions using Node.js and React.
-- Designed scalable applications using AWS and Azure, ensuring seamless integration with cloud
-  services.
-- Implemented best practices for version control and continuous integration.
-- Ensured applications were responsive and met performance requirements for thousands
+- Led the technical team in developing educational software solutions for thousands of users, focusing on testable and maintainable code.
+- Built responsive applications, integrating with cloud services.
+- Successfully managed multiple projects from conception to deployment.
 
 **Skills:**
 
 <div class="skills">
-  <span>Node.js</span>
+  <span>Team Leadership</span>
+  <span>Cloud Application</span>
+  <span>Software Development</span>
+  <span>Agile Methodology</span>
+</div>
+
+---
+
+### **Software Engineer**
+
+**Instituto Alcides D'Andrade Lima** _(2012–2013)_
+
+- Designed and implemented software solutions using Node.js and React to enhance educational and administrative functions.
+- Integrated systems and databases to ensure data consistency and accessibility, contributing to digital transformation.
+- Collaborated to deliver customized IT solutions.
+
+**Skills:**
+
+<div class="skills">
+  <span>Node</span>
   <span>React</span>
-  <span>AWS</span>
-  <span>Azure</span>
-  <span>Git</span>
-  <span>MySQL</span>
-  <span>CI/CD</span>
-  <span>REST</span>
-  <span>SQL</span>
-  <span>NoSQL</span>
+  <span>Software Development</span>
+  <span>Cloud Applications</span>
+  <span>Agile Methodology</span>
+</div>
+
+---
+
+### **Information Technology Engineer**
+
+**Minho University** _(2011–2012)_
+
+- Developed university-wide IT solutions to enhance system performance and security solutions.
+- Participated in full software development lifecycle ensuring high-quality
+- Collaborated with cross-functional teams to integrate new technologies and improve existing systems.
+
+**Skills:**
+
+<div class="skills">
+  <span>Node</span>
+  <span>React</span>
+  <span>Software Development</span>
+  <span>Cloud Applications</span>
+  <span>Agile Methodology</span>
+</div>
+
+---
+
+### **Information Technology Engineer**
+
+**Sarmento House** _(2010–2011)_
+
+- Developed and maintained software applications.
+- Utilized modern development frameworks to create interactive and user-friendly interfaces.
+- Implemented robust service solutions for efficient data handling.
+
+**Skills:**
+
+<div class="skills">
+  <span>Node</span>
+  <span>React</span>
+  <span>Software Development</span>
+  <span>Cloud Applications</span>
+  <span>Agile Methodology</span>
+</div>
+
+---
+
+### **Software Engineer**
+
+**Urbana-PE** _(2009–2010)_
+
+- Developed software solutions for urban planning and management using modern technologies.
+- Ensured seamless integration with existing systems and databases to enhance functionality and user experience.
+- Collaborated with cross-functional teams to gather requirements, improving system reliability and addressing real-world urban challenges.
+
+**Skills:**
+
+<div class="skills">
+  <span>Node</span>
+  <span>React</span>
+  <span>Software Development</span>
+  <span>Cloud Applications</span>
+  <span>Agile Methodology</span>
 </div>
 
 ---
@@ -239,7 +223,9 @@ Passionate about leading teams and crafting clean, maintainable code, I hold a P
 ## Certifications
 
 - Google Cloud Digital Leader _(2025)_
-- JSNSD – Node.js Services Developer _(in progress)_
+- AI - Assisted Certified Professional _(2024)_
+- CS50's Introduction to Programming with Python _(2023)_
+- Scrum Foundation Professional Certificate (SFPC) _(2019)_
 
 ---
 
