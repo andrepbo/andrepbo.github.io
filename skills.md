@@ -6,6 +6,7 @@ title: "Skills & Certifications"
 ## Technical Skills
 
 ### Backend
+
 - Node.js
 - NestJS
 - Express.js
@@ -15,6 +16,7 @@ title: "Skills & Certifications"
 - JavaScript / TypeScript
 
 ### Frontend
+
 - React
 - React Hooks
 - HTML5, CSS3
@@ -22,6 +24,7 @@ title: "Skills & Certifications"
 - Bootstrap, Material-UI
 
 ### Cloud & DevOps
+
 - Amazon Web Services (AWS)
 - Microsoft Azure (Azure Functions)
 - Google Cloud Platform (GCP)
@@ -29,6 +32,7 @@ title: "Skills & Certifications"
 - CI/CD (GitHub Actions, GitLab CI)
 
 ### Databases
+
 - PostgreSQL
 - MySQL
 - MongoDB
@@ -37,6 +41,7 @@ title: "Skills & Certifications"
 - NoSQL Databases
 
 ### Tools & Practices
+
 - Git, GitHub, GitLab
 - Agile & Scrum Methodologies
 - Test-driven Development (TDD)
@@ -47,5 +52,6 @@ title: "Skills & Certifications"
 
 ## Certifications
 
-- AI - Assisted Certified Professional *(2025)*
-- Scrum Foundation Professional Certificate (SFPC) *(2019)*
+- AI - Assisted Certified Professional _(2025)_
+- CS50's Introduction to Programming with Python _(2023)_
+- Scrum Foundation Professional Certificate (SFPC) _(2019)_
