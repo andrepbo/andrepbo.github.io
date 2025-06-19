@@ -6,7 +6,16 @@ permalink: /resume/
 
 # André Oliveira
 
-## Software Engineer & Tech Lead
+## Senior Software Engineer | Tech Lead | Team Leadership
+
+---
+
+## Contact Info
+
+**LinkedIn**: linkedin.com/in/andrepbo <br>
+**Website**: andrepbo.github.io (Portfolio) <br>
+**Phone**: (81) 98363-2018 (Mobile) <br>
+**Email**: andre.pbo@gmail.com <br>
 
 ---
 
@@ -31,13 +40,11 @@ Holds a bachelor’s, master’s, and PhD in Computer Science, obtained in Brazi
 
 **Skills:**
 
-<div class="skills">
-  <span>Node.js</span>
-  <span>TypeScript</span>
-  <span>NestJS</span>
-  <span>Cloud Applications</span>
-  <span>Agile Methodology</span>
-</div>
+- Node.js
+- TypeScript
+- NestJS
+- Cloud Applications
+- Agile Methodology
 
 ---
 
@@ -52,13 +59,11 @@ Holds a bachelor’s, master’s, and PhD in Computer Science, obtained in Brazi
 
 **Skills:**
 
-<div class="skills">
-  <span>Team Leadership</span>
-  <span>Node.js</span>
-  <span>NestJS</span>
-  <span>Cloud Applications</span>
-  <span>Agile Methodology</span>
-</div>
+- Team Leadership
+- Node.js
+- NestJS
+- Cloud Applications
+- Agile Methodology
 
 ---
 
@@ -73,13 +78,11 @@ Holds a bachelor’s, master’s, and PhD in Computer Science, obtained in Brazi
 
 **Skills:**
 
-<div class="skills">
-  <span>Node.js</span>
-  <span>TypeScript</span>
-  <span>API REST</span>
-  <span>Cloud Applications</span>
-  <span>Agile Methodology</span>
-</div>
+- Node.js
+- TypeScript
+- API REST
+- Cloud Applications
+- Agile Methodology
 
 ---
 
@@ -93,14 +96,12 @@ Holds a bachelor’s, master’s, and PhD in Computer Science, obtained in Brazi
 
 **Skills:**
 
-<div class="skills">
-  <span>Node</span> 
-  <span>JavaScript</span> 
-  <span>TypeScript</span>
-  <span>API REST</span>
-  <span>Cloud Applications</span>
-  <span>Agile Methodology</span>
-</div>
+- Node
+- JavaScript
+- TypeScript
+- API REST
+- Cloud Applications
+- Agile Methodology
 
 ---
 
@@ -114,12 +115,10 @@ Holds a bachelor’s, master’s, and PhD in Computer Science, obtained in Brazi
 
 **Skills:**
 
-<div class="skills">
-  <span>Team Leadership</span>
-  <span>Cloud Application</span>
-  <span>Software Development</span>
-  <span>Agile Methodology</span>
-</div>
+- Team Leadership
+- Cloud Application
+- Software Development
+- Agile Methodology
 
 ---
 
@@ -133,13 +132,11 @@ Holds a bachelor’s, master’s, and PhD in Computer Science, obtained in Brazi
 
 **Skills:**
 
-<div class="skills">
-  <span>Node</span>
-  <span>React</span>
-  <span>Software Development</span>
-  <span>Cloud Applications</span>
-  <span>Agile Methodology</span>
-</div>
+- Node
+- React
+- Software Development
+- Cloud Applications
+- Agile Methodology
 
 ---
 
@@ -153,13 +150,11 @@ Holds a bachelor’s, master’s, and PhD in Computer Science, obtained in Brazi
 
 **Skills:**
 
-<div class="skills">
-  <span>Node</span>
-  <span>React</span>
-  <span>Software Development</span>
-  <span>Cloud Applications</span>
-  <span>Agile Methodology</span>
-</div>
+- Node
+- React
+- Software Development
+- Cloud Applications
+- Agile Methodology
 
 ---
 
@@ -173,13 +168,11 @@ Holds a bachelor’s, master’s, and PhD in Computer Science, obtained in Brazi
 
 **Skills:**
 
-<div class="skills">
-  <span>Node</span>
-  <span>React</span>
-  <span>Software Development</span>
-  <span>Cloud Applications</span>
-  <span>Agile Methodology</span>
-</div>
+- Node
+- React
+- Software Development
+- Cloud Applications
+- Agile Methodology
 
 ---
 
@@ -193,13 +186,11 @@ Holds a bachelor’s, master’s, and PhD in Computer Science, obtained in Brazi
 
 **Skills:**
 
-<div class="skills">
-  <span>Node</span>
-  <span>React</span>
-  <span>Software Development</span>
-  <span>Cloud Applications</span>
-  <span>Agile Methodology</span>
-</div>
+- Node
+- React
+- Software Development
+- Cloud Applications
+- Agile Methodology
 
 ---
 
@@ -212,6 +203,15 @@ Holds a bachelor’s, master’s, and PhD in Computer Science, obtained in Brazi
 ---
 
 ## Skills Summary
+
+**Soft Skills**
+
+- Cross-functional collaboration and stakeholder communication
+- Prioritization and conflict management
+- Code quality advocacy and knowledge sharing
+- Team empowerment and results-oriented leadership
+
+**Technical Skills**
 
 - Node.js, TypeScript, JavaScript, React, NestJS, REST APIs, GraphQL, Serverless Architecture
 - PostgreSQL, MySQL, SQL Server, MongoDB, Redis, SQL, NoSQL
@@ -226,11 +226,3 @@ Holds a bachelor’s, master’s, and PhD in Computer Science, obtained in Brazi
 - AI - Assisted Certified Professional _(2024)_
 - CS50's Introduction to Programming with Python _(2023)_
 - Scrum Foundation Professional Certificate (SFPC) _(2019)_
-
----
-
-## Contact
-
-- GitHub: [https://github.com/andrepbo](https://github.com/andrepbo)
-- LinkedIn: [https://linkedin.com/in/andrepbo](https://linkedin.com/in/andrepbo)
-- Email: [andre.pbo@gmail.com](mailto:andre.pbo@gmail.com)
