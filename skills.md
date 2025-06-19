@@ -3,6 +3,13 @@ layout: default
 title: "Skills & Certifications"
 ---
 
+## Soft Skills
+
+- Cross-functional collaboration and stakeholder communication
+- Prioritization and conflict management
+- Code quality advocacy and knowledge sharing
+- Team empowerment and results-oriented leadership
+
 ## Technical Skills
 
 ### Backend

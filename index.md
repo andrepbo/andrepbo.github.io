@@ -5,9 +5,7 @@ title: "André Oliveira"
 
 ## About Me
 
-Software engineer with proven track record in leading technical projects and developing robust software solutions, with a primary focus on backend technologies. Expertise includes Node.js, REST APIs, cloud platforms, Microsoft Azure, AWS, microservices, and both relational and non-relational databases, among other skills.
-
-Skilled in utilizing modern technologies across various development frameworks and proficient in managing the system development lifecycle from conception to deployment. Adept at creating client-focused solutions using continuous delivery and agile methodologies.
+Software engineer and tech lead with deep expertise in backend development, cloud platforms, and system design. Proven track record in leading agile teams, mentoring engineers, and aligning technical execution with business strategy. Passionate about collaboration, knowledge sharing, and continuously improving workflows to drive impactful results.
 
 Holds a bachelor’s, master’s, and PhD in Computer Science, obtained in Brazil and Portugal (dual nationality). Fluent in English, acquired while living in England, with additional certifications that demonstrate in-depth knowledge of the technologies used daily.
 
@@ -19,6 +17,7 @@ Holds a bachelor’s, master’s, and PhD in Computer Science, obtained in Brazi
 
 **Avenue Code** _(2023–2025)_
 
+- Collaborated with cross-functional teams including product managers, designers, and QA to ensure delivery aligned with business goals and user needs.
 - Designed and implemented scalable web applications to address performance, maintainability, and growing user demands.
 - Built robust APIs and integrated complex systems to deliver seamless, user-friendly experiences using modern architecture and development practices.
 - Mentored consultants, strengthening leadership skills while enhancing team expertise and fostering continuous technical growth.
@@ -39,6 +38,7 @@ Holds a bachelor’s, master’s, and PhD in Computer Science, obtained in Brazi
 
 **Pitang** _(2020–2023)_
 
+- Provided technical guidance and mentorship to junior developers, fostering a culture of knowledge sharing, continuous learning, and engineering excellence.
 - Led the development of complex applications using diverse technologies to deliver scalable and efficient solutions.
 - Designed and implemented systems integrating modern interfaces with robust infrastructure for seamless performance.
 - Oversaw technical planning, code reviews, and system deployment in production environments.
@@ -59,6 +59,7 @@ Holds a bachelor’s, master’s, and PhD in Computer Science, obtained in Brazi
 
 **Accenture** _(2019–2020)_
 
+- Led regular code reviews and championed best practices including automated testing, peer programming, and technical documentation efforts.
 - Led the development of microservices and monolithic systems, ensuring seamless user interactions and robust functionality.
 - Contributed to architectural decisions for scalable backend systems in enterprise projects.
 - Worked in agile squads collaborating with QA and product teams.
