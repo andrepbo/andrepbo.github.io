@@ -222,7 +222,6 @@ Holds a bachelor’s, master’s, and PhD in Computer Science, obtained in Brazi
 
 ## Certifications
 
-- Google Cloud Digital Leader _(2025)_
 - AI - Assisted Certified Professional _(2024)_
 - CS50's Introduction to Programming with Python _(2023)_
 - Scrum Foundation Professional Certificate (SFPC) _(2019)_
