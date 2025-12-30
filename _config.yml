@@ -11,7 +11,14 @@ lang: pt-BR
 locale: pt_BR
 url: "https://andrepbo.github.io"
 image: /assets/img/andre.jpg
+logo: /assets/img/andre.jpg
 twitter_username: andrepbo
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      image: /assets/img/andre.jpg
