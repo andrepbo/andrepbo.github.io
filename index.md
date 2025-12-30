@@ -13,9 +13,32 @@ Holds a bachelor’s, master’s, and PhD in Computer Science, obtained in Brazi
 
 ## Professional Experience
 
+### **Lead Software Engineer**
+
+**Thoughtworks** _(Aug 2025–Present)_
+
+- Technical lead for LATAM Airlines loyalty partner experience, evolving architecture and engineering practices with an AI-first mindset.
+- Define and guide microservices, APIs, CI/CD, and observability standards to ensure performance, security, and reliability.
+- Mentor a multidisciplinary team and collaborate with product and business stakeholders to deliver continuous value.
+- Integrate partner systems and core loyalty platforms to support LATAM's digital transformation.
+
+**Skills:**
+
+<div class="skills">
+  <span>Technical Leadership</span>
+  <span>Architecture</span>
+  <span>Microservices</span>
+  <span>APIs</span>
+  <span>CI/CD</span>
+  <span>Observability</span>
+  <span>AI Solutions</span>
+</div>
+
+---
+
 ### **Senior Software Engineer**
 
-**Avenue Code** _(2023–2025)_
+**Avenue Code** _(Oct 2023–Jan 2025)_
 
 - Collaborated with cross-functional teams including product managers, designers, and QA to ensure delivery aligned with business goals and user needs.
 - Designed and implemented scalable web applications to address performance, maintainability, and growing user demands.
@@ -36,7 +59,7 @@ Holds a bachelor’s, master’s, and PhD in Computer Science, obtained in Brazi
 
 ### **Senior Software Engineer | Tech Lead**
 
-**Pitang** _(2020–2023)_
+**Pitang** _(Dec 2020–Jan 2023)_
 
 - Provided technical guidance and mentorship to junior developers, fostering a culture of knowledge sharing, continuous learning, and engineering excellence.
 - Led the development of complex applications using diverse technologies to deliver scalable and efficient solutions.
@@ -57,7 +80,7 @@ Holds a bachelor’s, master’s, and PhD in Computer Science, obtained in Brazi
 
 ### **Senior Software Engineer**
 
-**Accenture** _(2019–2020)_
+**Accenture** _(Jan 2019–Feb 2020)_
 
 - Led regular code reviews and championed best practices including automated testing, peer programming, and technical documentation efforts.
 - Led the development of microservices and monolithic systems, ensuring seamless user interactions and robust functionality.
@@ -78,7 +101,7 @@ Holds a bachelor’s, master’s, and PhD in Computer Science, obtained in Brazi
 
 ### **Senior Software Engineer**
 
-**Pernambuco Institute of Technology** _(2017–2018)_
+**Pernambuco Institute of Technology** _(May 2017–Oct 2018)_
 
 - Led the development of innovative software solutions focusing on scalable and secure applications.
 - Spearheaded projects integrating databases to enhance data accessibility and performance.
@@ -99,7 +122,7 @@ Holds a bachelor’s, master’s, and PhD in Computer Science, obtained in Brazi
 
 ### **Senior Software Engineer | Tech Lead**
 
-**Ser Educacional Group** _(2014–2016)_
+**Ser Educacional Group** _(Oct 2014–Feb 2016)_
 
 - Led the technical team in developing educational software solutions for thousands of users, focusing on testable and maintainable code.
 - Built responsive applications, integrating with cloud services.
@@ -118,7 +141,7 @@ Holds a bachelor’s, master’s, and PhD in Computer Science, obtained in Brazi
 
 ### **Software Engineer**
 
-**Instituto Alcides D'Andrade Lima** _(2012–2013)_
+**Instituto Alcides D'Andrade Lima** _(Dec 2012–Aug 2013)_
 
 - Designed and implemented software solutions using Node.js and React to enhance educational and administrative functions.
 - Integrated systems and databases to ensure data consistency and accessibility, contributing to digital transformation.
@@ -138,7 +161,7 @@ Holds a bachelor’s, master’s, and PhD in Computer Science, obtained in Brazi
 
 ### **Information Technology Engineer**
 
-**Minho University** _(2011–2012)_
+**Minho University** _(Dec 2011–Jul 2012)_
 
 - Developed university-wide IT solutions to enhance system performance and security solutions.
 - Participated in full software development lifecycle ensuring high-quality
@@ -158,7 +181,7 @@ Holds a bachelor’s, master’s, and PhD in Computer Science, obtained in Brazi
 
 ### **Information Technology Engineer**
 
-**Sarmento House** _(2010–2011)_
+**Sarmento House** _(Nov 2010–Jun 2011)_
 
 - Developed and maintained software applications.
 - Utilized modern development frameworks to create interactive and user-friendly interfaces.
@@ -178,7 +201,7 @@ Holds a bachelor’s, master’s, and PhD in Computer Science, obtained in Brazi
 
 ### **Software Engineer**
 
-**Urbana-PE** _(2009–2010)_
+**Urbana-PE** _(Dec 2009–Jul 2010)_
 
 - Developed software solutions for urban planning and management using modern technologies.
 - Ensured seamless integration with existing systems and databases to enhance functionality and user experience.
