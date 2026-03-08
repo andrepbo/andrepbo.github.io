@@ -3,13 +3,22 @@
 {
 	"name": "Debian",
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
-	"image": "mcr.microsoft.com/devcontainers/base:trixie"
+	"image": "mcr.microsoft.com/devcontainers/base:trixie",
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
-	// "features": {},
+	"features": {
+		"ghcr.io/devcontainers/features/ruby:1": {
+			"version": "3.4.1"
+		}
+	},
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
-	// "forwardPorts": [],
+	"forwardPorts": [
+		4000
+	],
+
+	// Install matching Bundler and project gems on container creation.
+	"postCreateCommand": "gem install bundler -v 2.6.6 && bundle _2.6.6_ config set --local path vendor/bundle && bundle _2.6.6_ install",
 
 	// Configure tool-specific properties.
 	// "customizations": {},
