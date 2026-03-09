@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Projects"
+permalink: /projects/
 ---
 
 ## Projects
@@ -27,7 +28,7 @@ Developed a system to optimize the feedstock procurement process, reducing opera
 
 ---
 
-### [Vet4All](https://www.vet4all.com.br){:target="\_blank"} _(2022–2023)_
+### [Vet4All](https://www.vet4all.com.br){:target="_blank" rel="noopener noreferrer"} _(2022–2023)_
 
 Vet4All is a 24/7 online veterinary platform. Led a full-stack development team, ensuring robust architecture and scalable solutions, significantly improving customer engagement.
 

@@ -15,3 +15,11 @@ vendor/
 
 # VS Code-specific files (if using VS Code)
 .vscode/
+tmp/
+log/
+vendor/bundle/
+*.gem
+*.tmp
+*.swp
+.idea/
+.env*
