@@ -1,0 +1,9 @@
+Configuration file: /workspaces/andrepbo.github.io/_config.yml
+To use retry middleware with Faraday v2.0+, install `faraday-retry` gem
+            Source: /workspaces/andrepbo.github.io
+       Destination: /workspaces/andrepbo.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+       Jekyll Feed: Generating feed for posts
+                    done in 0.175 seconds.
+ Auto-regeneration: disabled. Use --watch to enable.

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Skills & Certifications"
+permalink: /skills/
 ---
 
 ## Soft Skills

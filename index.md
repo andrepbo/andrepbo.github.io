@@ -132,7 +132,7 @@ Holds a bachelor’s, master’s, and PhD in Computer Science, obtained in Brazi
 
 <div class="skills">
   <span>Team Leadership</span>
-  <span>Cloud Application</span>
+  <span>Cloud Applications</span>
   <span>Software Development</span>
   <span>Agile Methodology</span>
 </div>
@@ -233,14 +233,22 @@ Explore some of my recent work:
 
 - **Digital Product Integration** _(Internal project at Avenue Code)_
 - **Intelligent Feedstock Flow** _(Internal project at Avenue Code)_
-- [**Vet4All**](https://www.vet4all.com.br/){:target="\_blank"} _(24/7 Online Veterinary Platform)_
+- [**Vet4All**](https://www.vet4all.com.br/){:target="_blank" rel="noopener noreferrer"} _(24/7 Online Veterinary Platform)_
 
-[View all projects on GitHub](https://github.com/andrepbo){:target="\_blank"}
+[View all projects on GitHub](https://github.com/andrepbo){:target="_blank" rel="noopener noreferrer"}
 
 ---
 
 ## Connect with me
 
-- [LinkedIn](https://www.linkedin.com/in/andrepbo){:target="\_blank"}
-- [GitHub](https://github.com/andrepbo){:target="\_blank"}
-- Email: [andre.pbo@gmail.com](mailto:andre.pbo@gmail.com){:target="\_blank"}
+- [LinkedIn](https://www.linkedin.com/in/andrepbo){:target="_blank" rel="noopener noreferrer"}
+- [GitHub](https://github.com/andrepbo){:target="_blank" rel="noopener noreferrer"}
+- Email: [andre.pbo@gmail.com](mailto:andre.pbo@gmail.com){:target="_blank" rel="noopener noreferrer"}
+
+---
+
+## Analytics Disclosure
+
+This website uses privacy-aware analytics to measure overall traffic and content
+engagement. The setup is configured to avoid direct personal identifier
+collection and to keep metrics focused on aggregate usage patterns.
